@@ -236,7 +236,6 @@ A Cricket Ball Bowled As If To Break One Way That Actually Breaks In The Opposit
 00:07:56,290 --> 00:07:58,700
 करतालेन स्वागतीकुर्वन्तु
 
-
 56
 00:07:59,580 --> 00:08:01,560
 अभिनन्दाः महोदय
@@ -292,12 +291,11 @@ A Cricket Ball Bowled As If To Break One Way That Actually Breaks In The Opposit
 
 69
 00:08:55,930 --> 00:09:01,130
-***
-येन प्रथमस्थानम् लब्धं तस्य कृते करतालम् किमर्थं न?
+प्रथमस्थानप्रप्ताय करतालं न दीयते वा?
 
 70
 00:09:01,760 --> 00:09:03,530
-भवन्तः अपि किमर्थं नीरवम् उपविशन्ति
+भवन्तः किमर्थं नीरवम् उपविशन्ति
 
 71
 00:09:05,560 --> 00:09:10,580
@@ -457,11 +455,11 @@ I hate girls.
 
 106
 00:11:57,900 --> 00:12:02,000
-अहम् चिन्तयामि यत् भवता प्रथमस्थानम् तु लब्धं किन्तु भवतः कृते केनापि करतालम् न करोति
+अहम् चिन्तयामि यत् भवता प्रथमस्थानम् तु लब्धं किन्तु भवते करतालम् न दीयते
 
 107
 00:12:02,390 --> 00:12:06,330
-यद्यपि अहम् रङ्गं प्रविशामि तर्हि करतालम् भवति
+यद्यपि अहम् रङ्गं प्रविशामि तर्हि करतालम् दीयते
 
 
 108
@@ -492,7 +490,7 @@ sitting here uninterested.
 00:12:17,630 --> 00:12:21,300
 Without any selfish motive,
 without knowing our background,
-निस्स्वार्थम् निष्परिचयम्
+विना स्वार्थम्, विना परिचयम्
 
 114
 00:12:21,490 --> 00:12:28,230
@@ -524,15 +522,15 @@ When did you join police?
 120
 00:12:43,530 --> 00:12:46,230
 केनोक्तम्?
-- Why should anyone tell us?
+- किमर्थं वदितव्यम्?
 
 121
 00:12:46,430 --> 00:12:48,900
-You've come in police uniform, right
+आरक्षकसेवावस्त्रं धारयति किल?
 
 122
 00:12:49,580 --> 00:12:53,620
-That is for my mother.
+इदं तु मम मातुः कृते
 
 123
 00:13:32,400 --> 00:13:34,530
@@ -666,280 +664,338 @@ to ward of evil eye cast on me ♪
 
 154
 00:17:11,900 --> 00:17:13,630
-What's this reaction?
+इयं कीद्रशा प्रतिक्रिया?
 
 155
 00:17:16,060 --> 00:17:18,160
 Why are you so happy?
+किमर्थं एतावत् उल्लासः?
+
 
 156
 00:17:18,760 --> 00:17:20,500
 Food in your hostel is really good.
+तव आवासे भोजनं बहु स्वादिष्टमेव.
 
 157
 00:17:20,700 --> 00:17:22,360
 Just like the food in my orphanage.
+मम अनाथाश्रमे इव
 
 158
 00:17:22,360 --> 00:17:23,860
 Wow! Good
+बहुसमीचिनम्!
 
 159
 00:17:25,860 --> 00:17:27,360
-I wanted to ask you this
-for sometime now,
+कस्माद्चित् कालात् प्रष्टुमैच्छम् यत्
 
 160
 00:17:27,560 --> 00:17:31,730
 who is this Sharath ?
+कः शरतः?
 Why entire college hate him?
+कलाशालायां सर्वैः किमर्थं द्विष्टः?
 
 161
 00:17:32,520 --> 00:17:36,500
 Madhu Stop there!
-What happened?
+मधो! तिष्ठ!
+What happened? किं जातम्?
 
 162
 00:17:36,830 --> 00:17:39,360
 You've come to this college
 today only.
+अद्यैव कलाशाला आगम्यते?
 
 163
 00:17:39,560 --> 00:17:41,300
 Do you need to know about
 that mental case?
+तस्य उन्मादस्य विषयं ज्ञातुमावश्यकं वा?
 
 164
 00:17:41,490 --> 00:17:44,870
 Nothing like that
 I found him interesting.
+केवलं रोचकः इति मन्ये.
 
 165
 00:17:45,330 --> 00:17:48,040
 He's not interesting character
 but irritating character.
+रोचकः न सः क्षोभकः.
 
 166
 00:17:48,080 --> 00:17:51,560
 He hates love and girls.
+सः प्रेम कन्यः द्वेष्टि.
 
 167
 00:17:53,060 --> 00:17:56,280
 But he beat a man for teasing
 a girl, right?
+किन्तु कनीपीडकम् ताडितवान् किल?
 
 168
 00:17:56,400 --> 00:17:57,860
 Yes.
+आम्!
 - Why is it so?
+- किमर्थम्?
 
 169
 00:17:58,060 --> 00:18:00,860
 Had I known so much about him,
+यदि तावत् ज्ञातम्
 
 170
 00:18:01,060 --> 00:18:04,760
 I would be the senior most
 patient in mental hospital.
+मनोरुग्णालये वरिष्ठरोगिनी अभविष्यमेव
 
 171
 00:18:05,260 --> 00:18:06,900
 Why?
+किमर्थम्?
 
 172
 00:18:07,100 --> 00:18:12,880
 One of my friend Sheetal, was very
  beautiful, went to propose to him.
+ मम एकं मित्रम् अस्ति, शीतला. सा बहुसुन्दरा. तया प्रेमनिवेदनं कृतम्.
 
 173
 00:18:16,280 --> 00:18:17,960
 Sharath
+शरत?
 - Yes
+- किम्?
 
 174
 00:18:18,380 --> 00:18:20,240
 I love you
+त्वयि स्निह्यामि!
 - Oh!
+- एवं वा!
 
 175
 00:18:20,660 --> 00:18:23,960
 Can't hear if there is an ear bud in ear.
+यदि श्रवणयन्त्रं कर्णयोः धारयामि कथं श्रूयते
 
 176
 00:18:24,830 --> 00:18:26,360
 What did you tell now?
+किम् उक्तम्?
 Repeat.
+पुनर्वद!
 
 177
 00:18:26,560 --> 00:18:28,560
 So many boys are after me.
+कतिपयाः लाडिकाः मां कामयन्ति
 
 178
 00:18:28,760 --> 00:18:32,720
 But nobody has made me go
 mad as much as you have.
+किन्तु त्वम् इव कोऽपि न मामुन्मादं कृतम्
 
 179
 00:18:33,160 --> 00:18:36,930
 Please accept my sincere love.
+कृपया मम निजं प्रेमनिवेदनं स्वीकुरु.
 
 180
 00:18:36,930 --> 00:18:38,930
 I love you
+त्वयि स्निह्यामि
 
 181
 00:18:40,360 --> 00:18:42,000
 Am I your 10th victim?
+तव दशमाखेटः अस्मि किल?
 
 182
 00:18:49,760 --> 00:18:54,000
 I've seen 4 boys who were
 with you go to the saloon,
+त्वया सह लाडिकचतुष्कम् शुण्डाम् प्रति गच्छमानम् दृष्टम् 
 
 183
 00:18:54,160 --> 00:18:56,100
 three others went down the lane,
+अन्यत् त्रयं विथ्याम् अग्रे गतवत्
 
 184
 00:18:56,460 --> 00:18:59,560
 news channels tell about others
 vanishing from the world.
+अन्ये तु जगतः अदृश्यं अभवत् इति दूरदर्शनेन भणितम्
 
 185
 00:18:59,760 --> 00:19:02,400
 What are you planning to do with me?
+माम् किम् कर्तुम् कल्पितम्?
 - Nothing like that.
+- न किमपि एव.
 
 186
 00:19:02,840 --> 00:19:04,960
 I'm in love with you very seriously.
+त्वयि स्निह्यामि तीव्रमेव
 
 187
 00:19:05,460 --> 00:19:06,900
 They were waste candidates.
+ते तु मूर्खाः एव.
 
 188
 00:19:07,040 --> 00:19:10,120
 Okay, leave it.
+साधु, मास्तु
 
 189
 00:19:10,500 --> 00:19:12,860
 Once candle wax melts,
 wick is indeed useless.
+द्रवीकरणतः परम् शलाका तु व्यर्थैव
 
 190
 00:19:13,060 --> 00:19:14,860
 This is latest fashion of girls.
+कन्यानाम् अद्यतना रीतिः एव
 
 191
 00:19:15,900 --> 00:19:21,760
 Fashion of girls is tension for boys, it then
  leads to emotion and ultimately to rat poison.
+कन्यानाम् रीतिः तु लडिकानाम् आततिः, ततः परम् भावे परिवर्तते अन्ततः तु मूषकविषे
 
 192
 00:19:21,830 --> 00:19:23,460
 Do I need this?
+आवश्यकम् वा?
 
 193
 00:19:23,460 --> 00:19:24,530
 Sharath
+शरत
 
 194
 00:19:24,530 --> 00:19:29,930
 You girls ask for big money in
 their wallets too along with lover.
+कन्यः तु प्रेमिणा सह बृहत्कधनस्यूतम् वाञ्छन्ति
 
 195
 00:19:30,390 --> 00:19:36,730
 You loved 9 boys before me, did you ever
 buy even a ₹ 0.50 chocolate for them?
+इतः पूर्वम् नव लाडिकेषु स्निह्यति स्म, कदापि तेभ्यः पञ्चाशत्पैसमूल्यम् चाकलेहम् अपि क्रीतवती वा?
 
 196
 00:19:36,930 --> 00:19:40,970
 You know what, I didn't have ₹ 0.50 change.
+ज्ञातं वा मम पञ्चाशत्पैसाः न अस्ति
 
 197
 00:19:41,000 --> 00:19:44,470
 Great!
+बहुसमीचिनम्!
 - I never asked them anything.
+कदापि किमपि वस्तु न प्रार्थितम्.
 
 198
 00:19:44,860 --> 00:19:46,830
 They bought gifts for me
 on their own will.
+ते तु स्वेच्छया सर्वान् उपहारान् दत्तवन्तः
 
 199
 00:19:47,030 --> 00:19:50,160
 I accepted it to keep them happy.
+तान् सुखयितुं सर्वे उपहाराः स्वीकृताः
 That's all!
+तदर्थमेव!
 
 200
 00:19:50,560 --> 00:19:53,800
 Why are you asking about past?
+गतकालस्य विषयं कथं पृच्छसि?
 Leave it, Sharath.
+मास्तु, शरत
 
 201
 00:19:54,360 --> 00:19:55,600
 What do you want, dear?
+किम् इच्छसि, प्रिये?
 
 202
 00:19:55,800 --> 00:19:59,280
 Should I jump down from this
  roof or will you push me down?
+अत्रतः मम कूर्दनम् अथवा तव नोदः?
 
 203
 00:19:59,360 --> 00:20:01,660
 Are you joking, Sharath?
+शरत, परिहासम् करोषि वा?
 
 204
 00:20:03,780 --> 00:20:08,380
 Ever since you girls gave
 the arrow of love to boys,
+यदा युष्माभिः कनीभिः कामबाणम् मुञ्चन्ति स्म
 
 205
 00:20:08,630 --> 00:20:12,180
 we poor men do look like
 jokers to you, right?
+तत्समयतः वयं दरिद्राः लाडिकाः परिहासकाः इव दृश्यन्ते किल?
 
 206
 00:20:12,360 --> 00:20:15,330
-Is it? I don't know.
+एवं वा? न जाने?
 
 207
 00:20:19,390 --> 00:20:22,540
-I'll hit myself with this brick.
+इष्टिकया आत्मानं ताडितवान्?
 
 208
 00:20:23,100 --> 00:20:25,020
-To hell with your love, get lost!
+तव प्रेम धिक् अस्तु! त्वं धिक्!
 
 209
 00:20:25,400 --> 00:20:29,200
-Why is he like that?
-- No one knows
+तादृशः किमर्थम् वर्तते?
+- कः जानाति एव?
 
 210
 00:20:30,930 --> 00:20:35,220
-If you think too much about him,
-your hair will turn gray,
+तस्य विषये यदि बहु चिन्तसि चेत् तव पक्वकेशः भवति,
 
 211
 00:20:35,390 --> 00:20:38,040
-you may find it difficult to
-find a man for yourself. Just go to sleep.
+अथ वरान्वेषणं कष्टं भवति।
+नूनं शयनं कुरु।
 
 212
 00:20:38,200 --> 00:20:39,200
-Good night
+शुभरात्रिः
 
 213
 00:20:43,080 --> 00:20:46,320
-Interesting character
-Good night
+रोचते सः?
+शुभारात्रिः।
 
 214
 00:20:48,990 --> 00:20:51,060
-406! Get ghee.
+406! घृतं नय।
 
 215
 00:20:53,280 --> 00:20:54,660
@@ -947,37 +1003,33 @@ Good night
 
 216
 00:20:54,960 --> 00:20:57,440
-Are you an Inspector?
-Am I a constable?
+त्वम् अधिकारी वा?
+अहं पुररक्षः?
 
 217
 00:20:57,490 --> 00:20:59,800
-You wanted me to become
-a police officer, right?
+आरक्ष्याधिकारी भवेः इति वदसि किल?
 
 218
 00:21:00,030 --> 00:21:03,000
-I wanted you to become
-a police officer in reality.
+निजः अधिकारी भवेः इति उक्तम्
 
 219
 00:21:03,200 --> 00:21:07,670
-Not for a day wearing rental dress
-and get scolded by the people.
+भाटकवस्त्रं धारयित्वा समाजेन निन्द्यस्व इति न उक्तम्
 
 220
 00:21:07,830 --> 00:21:11,260
-This is the result for wearing uniform for a
- day, mother. If I wear it for life, I'm finished.
+एकदिनं यावदेव आरक्षिवस्त्रं धारयामि चेत् इयत् तर्जसि,
+यदि यावद्जीवितम् धारयामि मम अन्तं भवेदेव।
 
 221
 00:21:11,480 --> 00:21:15,710
-You still have a week time. Look at me as
- much as you want. I've to return it then.
+सप्ताहपर्यन्तं धारयामि। यावत् आवश्यकं तावत् पश्य। तदनन्तरम् प्रतिदीयताम्।
 
 222
 00:21:15,710 --> 00:21:17,710
-Serve ghee, I've to catch thieves.
+घृतं परिवेषय। चोराः गृह्यन्ताम्।
 
 223
 00:21:17,980 --> 00:21:19,380
